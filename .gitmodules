@@ -1,0 +1,12 @@
+[submodule "registry"]
+	path = registry
+	url = git@aoindustries.github.com:aoindustries/ao-web-resources-registry.git
+[submodule "servlet"]
+	path = servlet
+	url = git@aoindustries.github.com:aoindustries/ao-web-resources-servlet.git
+[submodule "taglib"]
+	path = taglib
+	url = git@aoindustries.github.com:aoindustries/ao-web-resources-taglib.git
+[submodule "optimizer"]
+	path = optimizer
+	url = git@aoindustries.github.com:aoindustries/ao-web-resources-optimizer.git
