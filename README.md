@@ -27,10 +27,10 @@ Aggregator POM for web resource management.
 * [GitHub](https://github.com/aoindustries/ao-web-resources)
 
 ## Modules
+* [AO Web Resources Optimizer](https://github.com/aoindustries/ao-web-resources-optimizer)
 * [AO Web Resources Registry](https://github.com/aoindustries/ao-web-resources-registry)
 * [AO Web Resources Servlet](https://github.com/aoindustries/ao-web-resources-servlet)
 * [AO Web Resources Taglib](https://github.com/aoindustries/ao-web-resources-taglib)
-* [AO Web Resources Optimizer](https://github.com/aoindustries/ao-web-resources-optimizer)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
