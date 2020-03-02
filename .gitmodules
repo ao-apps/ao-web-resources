@@ -4,6 +4,9 @@
 [submodule "registry"]
 	path = registry
 	url = git@aoindustries.github.com:aoindustries/ao-web-resources-registry.git
+[submodule "renderer"]
+	path = renderer
+	url = git@aoindustries.github.com:aoindustries/ao-web-resources-renderer.git
 [submodule "servlet"]
 	path = servlet
 	url = git@aoindustries.github.com:aoindustries/ao-web-resources-servlet.git

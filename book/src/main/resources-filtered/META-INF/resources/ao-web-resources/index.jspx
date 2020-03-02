@@ -34,10 +34,12 @@ along with ao-web-resources.  If not, see <http://www.gnu.org/licenses />.
 		title="@{documented.name}"
 		description="@{documented.description}"
 		datePublished="2020-03-01T00:04:32-0600"
+		dateModified="2020-03-02T13:58:39-0600"
 	>
 		<core:child page="changelog.jspx" />
 		<core:child book="/ao-web-resources/optimizer" page="/index.jspx" />
 		<core:child book="/ao-web-resources/registry" page="/index.jspx" />
+		<core:child book="/ao-web-resources/renderer" page="/index.jspx" />
 		<core:child book="/ao-web-resources/servlet" page="/index.jspx" />
 		<core:child book="/ao-web-resources/taglib" page="/index.jspx" />
 		<header>
@@ -65,6 +67,7 @@ along with ao-web-resources.  If not, see <http://www.gnu.org/licenses />.
 			<ul>
 				<li><core:link book="/ao-web-resources/optimizer" page="/index.jspx" /></li>
 				<li><core:link book="/ao-web-resources/registry" page="/index.jspx" /></li>
+				<li><core:link book="/ao-web-resources/renderer" page="/index.jspx" /></li>
 				<li><core:link book="/ao-web-resources/servlet" page="/index.jspx" /></li>
 				<li><core:link book="/ao-web-resources/taglib" page="/index.jspx" /></li>
 			</ul>
