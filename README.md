@@ -23,7 +23,7 @@ Aggregator POM for web resource management.
 ## Project Links
 * [Project Home](https://aoindustries.com/ao-web-resources/)
 * [Changelog](https://aoindustries.com/ao-web-resources/changelog)
-* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.aoindustries%22%20AND%20a:%22ao-web-resources%22)
+* [Maven Central Repository](https://search.maven.org/artifact/com.aoindustries/ao-web-resources)
 * [GitHub](https://github.com/aoindustries/ao-web-resources)
 
 ## Modules
