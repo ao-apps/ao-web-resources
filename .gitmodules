@@ -1,20 +1,20 @@
 [submodule "optimizer"]
 	path = optimizer
-	url = git@aoindustries.github.com:aoindustries/ao-web-resources-optimizer.git
+	url = git@github.com:aoindustries/ao-web-resources-optimizer.git
 	branch = .
 [submodule "registry"]
 	path = registry
-	url = git@aoindustries.github.com:aoindustries/ao-web-resources-registry.git
+	url = git@github.com:aoindustries/ao-web-resources-registry.git
 	branch = .
 [submodule "renderer"]
 	path = renderer
-	url = git@aoindustries.github.com:aoindustries/ao-web-resources-renderer.git
+	url = git@github.com:aoindustries/ao-web-resources-renderer.git
 	branch = .
 [submodule "servlet"]
 	path = servlet
-	url = git@aoindustries.github.com:aoindustries/ao-web-resources-servlet.git
+	url = git@github.com:aoindustries/ao-web-resources-servlet.git
 	branch = .
 [submodule "taglib"]
 	path = taglib
-	url = git@aoindustries.github.com:aoindustries/ao-web-resources-taglib.git
+	url = git@github.com:aoindustries/ao-web-resources-taglib.git
 	branch = .
