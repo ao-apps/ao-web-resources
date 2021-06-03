@@ -22,7 +22,7 @@ You should have received a copy of the GNU Lesser General Public License
 along with ao-web-resources.  If not, see <http://www.gnu.org/licenses />.
 -->
 <jsp:root
-	xmlns:ao="https://aoindustries.com/ao-taglib/"
+	xmlns:ao="https://oss.aoapps.com/taglib/"
 	xmlns:core="https://semanticcms.com/core/taglib/"
 	xmlns:jsp="http://java.sun.com/JSP/Page"
 	xmlns:section="https://semanticcms.com/section/taglib/"
@@ -34,14 +34,14 @@ along with ao-web-resources.  If not, see <http://www.gnu.org/licenses />.
 		title="@{documented.name}"
 		description="@{documented.description}"
 		datePublished="2020-03-01T00:04:32-06:00"
-		dateModified="2020-03-24T14:01:33-05:00"
+		dateModified="2021-05-31T01:25:50-05:00"
 	>
 		<core:child page="changelog.jspx" />
-		<core:child book="/ao-web-resources/optimizer" page="/index.jspx" />
-		<core:child book="/ao-web-resources/registry" page="/index.jspx" />
-		<core:child book="/ao-web-resources/renderer" page="/index.jspx" />
-		<core:child book="/ao-web-resources/servlet" page="/index.jspx" />
-		<core:child book="/ao-web-resources/taglib" page="/index.jspx" />
+		<core:child book="/web-resources/optimizer" page="/index.jspx" />
+		<core:child book="/web-resources/registry" page="/index.jspx" />
+		<core:child book="/web-resources/renderer" page="/index.jspx" />
+		<core:child book="/web-resources/servlet" page="/index.jspx" />
+		<core:child book="/web-resources/taglib" page="/index.jspx" />
 		<header>
 			<ao:include
 				page="/ao-badges/badges.inc.jspx"
@@ -65,11 +65,11 @@ along with ao-web-resources.  If not, see <http://www.gnu.org/licenses />.
 		</section:nav>
 		<section:section label="Modules">
 			<ul>
-				<li><core:link book="/ao-web-resources/optimizer" page="/index.jspx" /></li>
-				<li><core:link book="/ao-web-resources/registry" page="/index.jspx" /></li>
-				<li><core:link book="/ao-web-resources/renderer" page="/index.jspx" /></li>
-				<li><core:link book="/ao-web-resources/servlet" page="/index.jspx" /></li>
-				<li><core:link book="/ao-web-resources/taglib" page="/index.jspx" /></li>
+				<li><core:link book="/web-resources/optimizer" page="/index.jspx" /></li>
+				<li><core:link book="/web-resources/registry" page="/index.jspx" /></li>
+				<li><core:link book="/web-resources/renderer" page="/index.jspx" /></li>
+				<li><core:link book="/web-resources/servlet" page="/index.jspx" /></li>
+				<li><core:link book="/web-resources/taglib" page="/index.jspx" /></li>
 			</ul>
 		</section:section>
 	</core:page>

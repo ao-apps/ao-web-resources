@@ -25,15 +25,15 @@ along with ao-web-resources.  If not, see <http://www.gnu.org/licenses />.
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.aoindustries</groupId><artifactId>ao-oss-parent</artifactId><version>1.16.0-SNAPSHOT</version>
-		<relativePath>../ao-oss-parent/pom.xml</relativePath>
+		<groupId>com.aoapps</groupId><artifactId>ao-oss-parent</artifactId><version>1.16.0-SNAPSHOT</version>
+		<relativePath>../parent/pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.aoindustries</groupId><artifactId>ao-web-resources</artifactId><version>0.4.0-SNAPSHOT</version>
+	<groupId>com.aoapps</groupId><artifactId>ao-web-resources</artifactId><version>0.4.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>AO Web Resources</name>
-	<url>https://aoindustries.com/ao-web-resources/</url>
+	<url>https://oss.aoapps.com/web-resources/</url>
 	<description>Aggregator POM for web resource management.</description>
 	<inceptionYear>2020</inceptionYear>
 
