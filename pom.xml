@@ -32,6 +32,13 @@ along with ao-web-resources.  If not, see <http://www.gnu.org/licenses />.
 	<groupId>com.aoapps</groupId><artifactId>ao-web-resources</artifactId><version>0.4.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
+	<properties>
+		<!-- SonarCloud.io -->
+		<sonar.projectKey>${project.groupId}:${project.artifactId}</sonar.projectKey>
+		<sonar.organization>aoindustries</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
+
 	<name>AO Web Resources</name>
 	<url>https://oss.aoapps.com/web-resources/</url>
 	<description>Aggregator POM for web resource management.</description>
