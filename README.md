@@ -19,7 +19,7 @@ Aggregator POM for web resource management.
 ## Project Links
 * [Project Home](https://oss.aoapps.com/web-resources/)
 * [Changelog](https://oss.aoapps.com/web-resources/changelog)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.aoapps&q=a%3Aao-web-resources)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.aoapps/ao-web-resources)
 * [GitHub](https://github.com/ao-apps/ao-web-resources)
 
 ## Modules
