@@ -32,9 +32,6 @@ along with ao-web-resources.  If not, see <https://www.gnu.org/licenses/>.
   <groupId>com.aoapps</groupId><artifactId>ao-web-resources</artifactId><version>0.5.0-POST-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <properties>
-  </properties>
-
   <name>AO Web Resources</name>
   <url>https://oss.aoapps.com/web-resources/</url>
   <description>Aggregator POM for web resource management.</description>
