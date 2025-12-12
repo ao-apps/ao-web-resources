@@ -1,7 +1,7 @@
 [submodule "optimizer"]
   path = optimizer
   url = git@github.com:ao-apps/ao-web-resources-optimizer.git
-  branch = .
+  branch = javaee
 [submodule "registry"]
   path = registry
   url = git@github.com:ao-apps/ao-web-resources-registry.git
@@ -9,12 +9,12 @@
 [submodule "renderer"]
   path = renderer
   url = git@github.com:ao-apps/ao-web-resources-renderer.git
-  branch = .
+  branch = javaee
 [submodule "servlet"]
   path = servlet
   url = git@github.com:ao-apps/ao-web-resources-servlet.git
-  branch = .
+  branch = javaee
 [submodule "taglib"]
   path = taglib
   url = git@github.com:ao-apps/ao-web-resources-taglib.git
-  branch = .
+  branch = javaee
