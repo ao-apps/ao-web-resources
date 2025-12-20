@@ -103,25 +103,50 @@ along with ao-web-resources.  If not, see <https://www.gnu.org/licenses/>.
     </repository>
   </repositories>
 
+  <profiles>
+    <profile>
+      <id>jakartaee</id>
+      <activation>
+        <property>
+          <name>jakartaee.skip</name>
+          <value>!true</value>
+        </property>
+      </activation>
+      <modules>
+        <module>optimizer</module>
+        <module>optimizer/book</module>
+        <module>renderer</module>
+        <module>renderer/book</module>
+        <module>servlet</module>
+        <module>servlet/book</module>
+        <module>taglib</module>
+        <module>taglib/book</module>
+      </modules>
+    </profile>
+    <profile>
+      <id>javaee</id>
+      <activation>
+        <property>
+          <name>javaee.skip</name>
+          <value>!true</value>
+        </property>
+      </activation>
+      <modules>
+        <module>book</module>
+        <module>optimizer-javaee</module>
+        <module>optimizer-javaee/book</module>
+        <module>registry/book</module>
+        <module>renderer-javaee</module>
+        <module>renderer-javaee/book</module>
+        <module>servlet-javaee</module>
+        <module>servlet-javaee/book</module>
+        <module>taglib-javaee</module>
+        <module>taglib-javaee/book</module>
+      </modules>
+    </profile>
+  </profiles>
+
   <modules>
-    <module>book</module>
-    <module>optimizer</module>
-    <module>optimizer/book</module>
-    <module>optimizer-javaee</module>
-    <module>optimizer-javaee/book</module>
     <module>registry</module>
-    <module>registry/book</module>
-    <module>renderer</module>
-    <module>renderer/book</module>
-    <module>renderer-javaee</module>
-    <module>renderer-javaee/book</module>
-    <module>servlet</module>
-    <module>servlet/book</module>
-    <module>servlet-javaee</module>
-    <module>servlet-javaee/book</module>
-    <module>taglib</module>
-    <module>taglib/book</module>
-    <module>taglib-javaee</module>
-    <module>taglib-javaee/book</module>
   </modules>
 </project>
