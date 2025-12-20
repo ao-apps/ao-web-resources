@@ -113,8 +113,10 @@ along with ao-web-resources.  If not, see <https://www.gnu.org/licenses/>.
         </property>
       </activation>
       <modules>
+        <module>book</module>
         <module>optimizer</module>
         <module>optimizer/book</module>
+        <module>registry/book</module>
         <module>renderer</module>
         <module>renderer/book</module>
         <module>servlet</module>
@@ -132,10 +134,10 @@ along with ao-web-resources.  If not, see <https://www.gnu.org/licenses/>.
         </property>
       </activation>
       <modules>
-        <module>book</module>
+        <module>book-javaee</module>
         <module>optimizer-javaee</module>
         <module>optimizer-javaee/book</module>
-        <module>registry/book</module>
+        <module>registry/book-javaee</module>
         <module>renderer-javaee</module>
         <module>renderer-javaee/book</module>
         <module>servlet-javaee</module>
