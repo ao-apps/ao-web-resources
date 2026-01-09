@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 ao-web-resources - Aggregator POM for web resource management.
-Copyright (C) 2020, 2021, 2022, 2023, 2024, 2025  AO Industries, Inc.
+Copyright (C) 2020, 2021, 2022, 2023, 2024, 2025, 2026  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -117,16 +117,10 @@ along with ao-web-resources.  If not, see <https://www.gnu.org/licenses/>.
         </property>
       </activation>
       <modules>
-        <module>book-javaee</module>
         <module>optimizer-javaee</module>
-        <module>optimizer-javaee/book</module>
-        <module>registry/book-javaee</module>
         <module>renderer-javaee</module>
-        <module>renderer-javaee/book</module>
         <module>servlet-javaee</module>
-        <module>servlet-javaee/book</module>
         <module>taglib-javaee</module>
-        <module>taglib-javaee/book</module>
       </modules>
     </profile>
     <profile>
