@@ -29,7 +29,7 @@ along with ao-web-resources.  If not, see <https://www.gnu.org/licenses/>.
     <relativePath>../../parent/pom.xml</relativePath>
   </parent>
 
-  <groupId>com.aoapps</groupId><artifactId>ao-web-resources-book</artifactId><version>0.6.0-SNAPSHOT</version>
+  <groupId>com.aoapps</groupId><artifactId>ao-web-resources-book</artifactId><version>0.7.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <properties>
