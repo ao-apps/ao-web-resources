@@ -2,10 +2,6 @@
   path = optimizer
   url = git@github.com:ao-apps/ao-web-resources-optimizer.git
   branch = jakartaee
-[submodule "optimizer-javaee"]
-  path = optimizer-javaee
-  url = git@github.com:ao-apps/ao-web-resources-optimizer.git
-  branch = javaee
 [submodule "registry"]
   path = registry
   url = git@github.com:ao-apps/ao-web-resources-registry.git

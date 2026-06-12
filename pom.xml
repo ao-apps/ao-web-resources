@@ -117,7 +117,6 @@ along with ao-web-resources.  If not, see <https://www.gnu.org/licenses/>.
         </property>
       </activation>
       <modules>
-        <module>optimizer-javaee</module>
         <module>renderer-javaee</module>
         <module>servlet-javaee</module>
         <module>taglib-javaee</module>
